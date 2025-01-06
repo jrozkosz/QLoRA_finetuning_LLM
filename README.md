@@ -31,4 +31,4 @@ After fine-tuning the Llama-3.2-1B model with **LoRA**, the accuracy increased t
    - Comparing the performance of smaller datasets with more epochs versus larger datasets with fewer epochs.
 
 5. **Generalization Abilities:**
-   - Evaluating the model's ability to generalize by testing it on a different dataset.
+   - Evaluating the model's ability to generalize by testing it on a different dataset (fien-tuned on tweets dataset and tested on financial dataset).
